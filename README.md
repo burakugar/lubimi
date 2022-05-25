@@ -30,7 +30,7 @@ I continue my career by working on artificial intelligence and machine learning.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Hız Grup Bilişim A.Ş as a Full Stack Developer.
+- 🔭 I’m currently working on Mindbank AI as a Backend/Devops Developer.
 
 ### I'm a computer engineering student who never stops learning about different areas of computer science! 🚀
 
