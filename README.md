@@ -32,7 +32,7 @@ I continue my career by working on artificial intelligence and machine learning.
 
 - 🔭 I’m currently working on Mindbank AI as a Backend/Devops Developer.
 
-### I'm a computer engineering student who never stops learning about different areas of computer science! 🚀
+### I'm a computer engineering who never stops learning about different areas of computer science! 🚀
 
 - 💡 I'm mainly interested in machine learning and artificial intelligence.
 
